@@ -3,9 +3,7 @@ bbbbbbb
 ccccccc edit by atnyist111
 bbbbbbb edit by atnyist
 ccccccc
-<<<<<<< HEAD
 ddddddd
 eeeeeeeeeeee
-=======
 atnyist222
->>>>>>> b4311a331356050edc2cd9b72378f19b75521c39
+sshshshshsh
